@@ -1,0 +1,15 @@
+{
+  "name": "movfit",
+  "displayName": "movfit",
+  "expo": {
+    "name": "movfit",
+    "slug": "movfit",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.tmanto.movfit"
+    }
+  }
+}
